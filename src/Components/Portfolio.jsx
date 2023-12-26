@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/3.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Bhaskar Sawant";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Sniptor",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An open-source platform from where can developers download and use customizable UI components and various design systems for free.",
+    url: "https://sniptor-frontend.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "E-Commerce Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed an E-Commerce website using the MERN stack. Provides an interactive and professional Admin dashboard for management.",
+    url: "https://ecommerce-project-frontend.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "My 3D Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    "Created from Three.Js and Blender and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://bhaskarcsawant.github.io/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Interior Design Studio Portfolio",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed and Developed the Frontend of the Company website project using HTML, CSS, JavaScript and Figma. Developed the backend API using Python-Django framework with MySQL Database.",
+    url: "https://aurcaa.com/",
   },
 ];
 
